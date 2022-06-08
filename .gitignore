@@ -1,0 +1,8 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Train & Test Data - Pictures
+*.jpg
+
+# Labels
+# *.csv
